@@ -1,0 +1,20 @@
+---
+title: Flextable in Word
+format: docx
+---
+
+```{r, echo = F}
+# install.packages("flextable")
+# install.packages("markdown")
+```
+
+# Tables
+
+Reference @tbl-flextable
+
+```{r, echo = F}
+#| label: tbl-flextable
+#| tbl-cap: "Test Caption"
+library(flextable)
+flextable(head(mtcars))
+```
