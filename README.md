@@ -10,9 +10,12 @@ Instead, a user is able to insert a cross-reference using the bookmark tab withi
 
 ![Screenshot 2024-03-12 at 9 58 29 AM](https://github.com/A2-ai/flextable_bugRepo/assets/135846021/d7c26ff0-a8f9-401d-a61d-2dfa8e3e5d7e)
 
-![Screenshot 2024-03-12 at 9 58 47 AM](https://github.com/A2-ai/flextable_bugRepo/assets/135846021/2f3d21da-8930-4c8b-b1e5-97cabdbc6cea)
+![Screenshot 2024-03-12 at 10 05 43 AM](https://github.com/A2-ai/flextable_bugRepo/assets/135846021/260eeec3-86eb-4f1d-b3c4-1f8cb9502e08)
 
 Is this outcome intended? 
+
+
+Checklist:
 
 Software Details:
 
